@@ -183,7 +183,7 @@ function App() {
           <p className="text-xl text-gray-300 mb-8 text-center">{t.contactCTA}</p>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
             <a
-              href="https://twitter.com/your_handle"
+              href="https://twitter.com/zylarcore"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 flex items-center justify-center rounded-full bg-gray-950/80 border border-purple-900 hover:border-purple-700 transition-colors hover:shadow-[0_0_25px_rgba(168,85,247,0.2)]"
@@ -191,7 +191,7 @@ function App() {
               <Twitter className="w-6 h-6 text-cyan-400" />
             </a>
             <a
-              href="https://youtube.com/@your_channel"
+              href="https://youtube.com/@ZylarCore"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 flex items-center justify-center rounded-full bg-gray-950/80 border border-purple-900 hover:border-purple-700 transition-colors hover:shadow-[0_0_25px_rgba(168,85,247,0.2)]"
@@ -199,7 +199,7 @@ function App() {
               <Youtube className="w-6 h-6 text-cyan-400" />
             </a>
             <a
-              href="https://github.com/your_username"
+              href="https://github.com/Zyl4r"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 flex items-center justify-center rounded-full bg-gray-950/80 border border-purple-900 hover:border-purple-700 transition-colors hover:shadow-[0_0_25px_rgba(168,85,247,0.2)]"
@@ -207,7 +207,7 @@ function App() {
               <Github className="w-6 h-6 text-cyan-400" />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:zylarcore@gmail.com"
               className="w-12 h-12 flex items-center justify-center rounded-full bg-gray-950/80 border border-purple-900 hover:border-purple-700 transition-colors hover:shadow-[0_0_25px_rgba(168,85,247,0.2)]"
             >
               <Mail className="w-6 h-6 text-cyan-400" />
